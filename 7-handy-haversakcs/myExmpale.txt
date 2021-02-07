@@ -1,0 +1,8 @@
+shiny gold bags contain 1 pruple bag, 4 red bags, 3 white bags.
+purple bags contain no other bags.
+red bags contain 4 blue bags.
+white bags contain 2 red bags, 3 blue bags.
+blue bags contain no other bags.
+yellow bags contain 49 purple bags.
+black bags contain 4 shiny god bags.
+silver bags contain 4 yellow bags, 3 black bags.
