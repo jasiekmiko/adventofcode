@@ -1,7 +1,7 @@
 import scala.io.Source
 
 object Problem {
-	def main(args: Array[String]): Unit {
+	def main(args: Array[String]): Unit = {
 		val lines = Source.fromFile(args(1)).getLines()
 
 		val answer = args(0) match {
